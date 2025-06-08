@@ -35,12 +35,7 @@ To combine HTML, CSS, and JavaScript to build a fully functional, responsive, an
 
 ---
 
-## 📸 Preview
-![Portfolio Preview](screenshots/portfolio.png)
-![To-Do List Preview](screenshots/todo.png)
-![Product Listing Preview](screenshots/products.png)
 
----
 
 ## 📚 Learning Outcomes
 - DOM Manipulation
@@ -51,11 +46,7 @@ To combine HTML, CSS, and JavaScript to build a fully functional, responsive, an
 
 ---
 
-## ✅ Status
-✔️ Completed Task 4 under Apex Internship  
-🔗 [Live Demo Link (optional)](https://yourusername.github.io/task4-web-project-apex-internship)
 
----
 
 ## 🙌 Acknowledgements
 Special thanks to **Apex** for providing this internship opportunity and mentoring platform.
